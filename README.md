@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ethan Bradley
+### 🚀 Manual Poke-and-Prodder / Automation Engineer / Fire Breathing QA Dragon
 
-<!--
-**ebradley90103/ebradley90103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I rather fancy breaking things.
 
-Here are some ideas to get you started:
+Manually going through a new feature, writing automated tests with Playwright, checking APIs with Postman, verifying the strength of security, or digging into the database when something doesn’t add up, I love to do it all. I always try to look at things from the perspective of “alright, but what happens if someone does this?”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** JavaScript, Python, HTML/CSS, SQL
+
+---
